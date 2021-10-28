@@ -1,1 +1,2 @@
 Setup Gitbash
+Git bash has been setup sucessfully
